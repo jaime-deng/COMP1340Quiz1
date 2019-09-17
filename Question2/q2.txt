@@ -1,0 +1,5 @@
+Git status is only manditory to input after the codes "git init" and "git add". 
+
+Git status is a useful in that it allows the user to view the state of the working directory and the staging area. It shows you which files are being tracked by git and which files are not.
+
+When in node, certain commands are not recognized. These codes consists of ls, git status, and others. To exit out of node in the terminal, pressing "control + c" twice will exit you out of node.
